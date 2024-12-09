@@ -1,0 +1,23 @@
+{
+  "name": "tta",
+  "version": "1.0.0",
+  "description": "A simple script that accept in input a file .txt with various line of text and fire off a .ts file with an array that contains as element every line of the .txt file  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dompos/tta.git"
+  },
+  "author": "Domenico Posillipo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dompos/tta/issues"
+  },
+  "homepage": "https://github.com/dompos/tta#readme",
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "typescript": "^5.7.2"
+  }
+}
